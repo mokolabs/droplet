@@ -1,5 +1,5 @@
-# Droplet
-=========
+droplet.mokolabs.com
+====================
 
 This is the default app for droplet.mokolabs.com. This app contains a static, single-page web app which can be accessed from droplet.mokolabs.com.
 
