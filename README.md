@@ -11,7 +11,7 @@ So I created this placeholder app which contains a static index.html file. Then,
 
 ### Clone the app
 1. `cd Sites/` (or wherever you like to store projects locally)
-2. `git clone git@github.com:mokolabs/droplet.git droplet`
+2. `git clone git@github.com:mokolabs/droplet.mokolabs.com.git 00_default`
 
 ## Deploy the app
 The app is hosted on a dokku-managed droplet on Digital Ocean.
